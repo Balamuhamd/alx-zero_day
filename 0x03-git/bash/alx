@@ -1,2 +1,5 @@
-#!/bin/bash
+#!/bin/bashAD
 The school is open!
+
+echo "ALX School"
+
